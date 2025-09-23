@@ -1,199 +1,149 @@
 ---
-{"publish":true,"permalink":"/CV.md","created":"2025-09-21T22:28:48.811-07:00","modified":"2025-09-21T22:31:16.526-07:00","cssclasses":""}
+{"publish":true,"permalink":"/CV.md","created":"2025-09-21T22:28:48.811-07:00","modified":"2025-09-22T17:57:07.462-07:00","cssclasses":""}
 ---
 
-**Christian Schmidt, M.A. LIS**
-_Librarian Research Associate_
-Kula: Library Futures Academy
-University of Victoria Libraries
-E-Mail: [christianschmidt@uvic.ca](mailto:christianschmidt@uvic.ca)
-ORCiD: [0000-0001-9116-223X](https://orcid.org/0000-0001-9116-223X)
+# Christian Schmidt, M.A. LIS
 
-**Specialist in AI literacy, open scholarship, and digital library innovation with 10+ years in academic libraries. Expert in generative AI applications for research and education, prompt engineering instruction, and emerging technology integration in library services.**
+**Librarian Research Associate** | Kula: Library Futures Academy  
+University of Victoria Libraries | Victoria, BC  
+📧 [christianschmidt@uvic.ca](mailto:christianschmidt@uvic.ca) | ORCiD: [0000-0001-9116-223X](https://orcid.org/0000-0001-9116-223X)
 
 ---
 
-# DEGREES
+## Professional Summary
 
-## M.A., Library and Information Science
+Specialist in AI literacy, open scholarship, and digital library innovation with 10+ years of experience in academic libraries. Expert in generative AI applications for research and education, prompt engineering instruction, and emerging technology integration in library services. Proven track record in developing innovative educational programs and leading cross-institutional initiatives.
 
-2016–2018
+---
 
-School of Library and Information Science (iSchool), Humboldt University
+## Education
 
-Berlin, Germany
+**Master of Arts, Library and Information Science** | 2016–2018  
+School of Library and Information Science (iSchool), Humboldt University | Berlin, Germany  
+_ALA-accredited through Foreign Credentials Evaluation Assistance Program_
 
-- Accredited through ALA's «Foreign Credentials Evaluation Assistance Program»
+**Bachelor of Arts, Library and Information Science** | 2011–2015  
+University of Applied Sciences | Leipzig, Germany
 
-## B.A., Library and Information Science
+---
 
-2011–2015
+## Professional Experience
 
-University of Applied Sciences
+### **Librarian Research Associate** | _Jan 2025–present_
 
-Leipzig, Germany
+**Kula: Library Futures Academy, University of Victoria Libraries** | Victoria, BC
 
-# PROFESSIONAL APPOINTMENTS
+### **Special Projects Librarian** | _May 2023–Dec 2024_
 
-## Academic Libraries
+**University of Victoria Libraries** | Victoria, BC
 
-### Librarian Research Associate
+### **Open Scholarship Librarian** | _Jan 2022–May 2023_
 
-Jan 2025–present
+**University of Victoria Libraries** | Victoria, BC
 
-Kula: Library Futures Academy, University of Victoria Libraries
+### **Head of Acquisitions & Collections** | _Feb 2019–Apr 2021_
 
-Victoria, BC
+**Chemnitz University of Technology Library** | Chemnitz, Germany
 
-### Special Projects Librarian
+### **Acquisitions & Cataloging Librarian** | _Apr 2015–Jan 2019_
 
-May 2023–Dec 2024
+**Leipzig University of Applied Sciences Library** | Leipzig, Germany
 
-University of Victoria Libraries
+---
 
-Victoria, BC
+## Teaching & Instruction
 
-### Open Scholarship Librarian
+### **Post-Secondary Appointments**
 
-Jan 2022–May 2023
-
-University of Victoria Libraries
-
-Victoria, BC
-
-### Head of Acquisitions & Collections
-
-Feb 2019–Apr 2021
-
-Chemnitz University of Technology Library
-
-Chemnitz, Germany
-
-### Acquisitions & Cataloging Librarian
-
-Apr 2015–Jan 2019
-
-Leipzig University of Applied Sciences Library
-
-Leipzig, Germany
-
-# TEACHING EXPERIENCE
-
-## Post-Secondary Appointments
-
-### AI & Information Literacy Courses
-
-2023–present
-
-University of Applied Sciences for Public Administration
-
-Sessional Instructor • Munich, Germany
+**Sessional Instructor** | _2023–present_  
+**University of Applied Sciences for Public Administration** | Munich, Germany
 
 - Citizen Science Skills as a Core Competency (2025–present)
 - Prompt Engineering for Generative AI (2024–present)
 - Introduction to AI Literacy (2023–2024)
 
-### Digitization & Long-Term Preservation
+**Sessional Instructor** | _annually since 2024_  
+**Leipzig University of Applied Sciences** | Leipzig, Germany
 
-annually since 2024
+- Digitization & Long-Term Preservation (Master of Arts program, mandatory for-credit course)
 
-Leipzig University of Applied Sciences
+### **Academic Library Instruction**
 
-Sessional Instructor • Leipzig, Germany
+**Specialized Topics** | _since 2018_
 
-- Master of Arts program • Mandatory for-credit course
+- Open access & open science
+- Generative AI literacy & academic AI tools
+- Prompt engineering
+- AI applications in Library and Information Studies
+- Altmetrics
 
-## Academic Library Instruction
+**General Library Instruction** | _since 2015_
 
-### Specialized Library Instruction & Professional Development
+- Information literacy
+- Scholarly communication
+- Predatory publishing awareness
 
-since 2018
+### **Course Development**
 
-Advanced Topics & Emerging Technologies
+**[Using GenAI for Student Research](https://uviclibraries.github.io/gen-ai-research/)** | _Mar 2024–present_  
+Recurring workshop & instructional GitHub page (co-developed with Rich McCue, UVic)
 
-- Open access • Open science • GenAI literacy • Academic GenAI tools • Prompt engineering • Application of AI in Library and Information Studies • Altmetrics
-
-### General Library Instruction & Professional Development
-
-since 2015
-
-Various Academic Libraries
-
-- Information literacy • Scholarly communication • Vendor products • Predatory publishing
-
-## Course Design & Instructional Materials
-
-### [Using GenAI for Student Research](https://uviclibraries.github.io/gen-ai-research/)
-
-since Mar 2024
-
-Recurring workshop & instructional GitHub page
-
-- Co-developed with Rich McCue, UVic
-
-### [Designing Effective Prompts for GenAI](https://libguides.uvic.ca/Prompt_Engineering_Beginners_Course)
-
-since May 2024
-
+**[Designing Effective Prompts for GenAI](https://libguides.uvic.ca/Prompt_Engineering_Beginners_Course)** | _May 2024–present_  
 Recurring workshop & instructional LibGuide
 
-### Scholarly Use of AI Tools
-
-since Mar 2023
-
+**Scholarly Use of AI Tools** | _Mar 2023–present_  
 Topical & instructional LibGuide
 
-# SKILLS & EXPERTISE
+---
+
+## Leadership & Service
+
+**Co-Chair** | _May 2024–present_  
+**Community of Practice on Librarian AI Application** | University of Victoria Libraries
+
+**Chair** | _May 2023–Dec 2023_  
+**Artificial Intelligence Literacy Task Group** | University of Victoria Libraries
+
+**Associated Member** | _Apr 2023–present_  
+**IFLA Special Interest Group on AI** | International Federation of Library Associations
+
+**Vice Chair** | _Feb 2019–Apr 2021_  
+**Acquisition Consortium for Academic Libraries** | Saxony, Germany
+
+---
+
+## Technical Skills
 
 **Languages:** German (native), English (fluent)
 
-**Data & Analysis:** Canva (advanced), OpenRefine (intermediate), Microsoft Power BI (intermediate), Excel Data Analysis [📜](https://badgr.com/public/assertions/TmjoYaxDSFC7HRGJQw8qMA?identity__email=christianschmidt@uvic.ca) (intermediate)
+**Data & Analysis:**
 
-**Office & Documentation:** Microsoft Office Suite (advanced), LaTeX Typesetting [📜](https://badgr.com/public/assertions/5o7BktlnRK67alpk4w7UVw?identity__email=christianschmidt@uvic.ca) (novice)
+- Canva (advanced)
+- OpenRefine (intermediate)
+- Microsoft Power BI (intermediate)
+- Excel Data Analysis [📜](https://badgr.com/public/assertions/TmjoYaxDSFC7HRGJQw8qMA?identity__email=christianschmidt@uvic.ca) (intermediate)
 
-MEMBERSHIPS & WORKING GROUPS
+**Documentation & Office:**
 
-### Community of Practice on Librarian AI Application
+- Microsoft Office Suite (advanced)
+- LaTeX Typesetting [📜](https://badgr.com/public/assertions/5o7BktlnRK67alpk4w7UVw?identity__email=christianschmidt@uvic.ca) (novice)
 
-May 2024–present
+---
 
-University of Victoria Libraries
+## Publications
 
-Co-Chair
-
-### Artificial Intelligence Literacy Task Group
-
-May 2023–Dec 2023
-
-University of Victoria Libraries
-
-Chair
-
-### IFLA Special Interest Group on AI
-
-Apr 2023–present
-
-International Federation of Library Associations
-
-Associated Member
-
-### Acquisition Consortium for Academic Libraries
-
-Feb 2019–Apr 2021
-
-Saxony, Germany
-
-Vice Chair
-
-# PUBLICATIONS
-
-1. Nickerson, E., & Schmidt, C. (2023). Database review: EconBiz. Journal of Business & Finance Librarianship, 28(4), 302–311. [https://doi.org/10.1080/08963568.2023.2233837](https://doi.org/10.1080/08963568.2023.2233837)
-2. Schmidt, C. (2023a). UVic Libraries, AI & Student Success. In CIRCULATION, Fall 2023, 8–11. [http://hdl.handle.net/1828/15694](http://hdl.handle.net/1828/15694)
-3. Schmidt, C. (2023b). Wissenschaftliche Self-Publishing-Verlage im Spannungsfeld von bibliothekarischer Theorie und Praxis: Eine Analyse fachlicher Debatten in der Mailingliste InetBib. Humboldt-Universität Zu Berlin. [https://doi.org/10.18452/27508](https://doi.org/10.18452/27508)
-4. _(= Academic self-publishing at the intersection of librarian theory and practice)_
-5. Schmidt, C. (2019a). Fake Science ... und was Bibliotheken dagegen tun können. BuB: Forum Bibliothek und Information, 71(4), 212-215. [https://nbn-resolving.org/urn:nbn:de:0290-opus4-168032](https://nbn-resolving.org/urn:nbn:de:0290-opus4-168032).
-6. _(= Fake Science … and how libraries can intervene)_
-7. Schmidt, C. (2019b). Obdachlose Menschen als Bibliotheksbesucher. In P. Hauke & B. Lison (Eds.), _Öffentliche Bibliothek 2030_ (pp. 161-172). Bock + Herchen. ISBN: 978-3-88347-304-8. [doi.org/10.18452/20199](https://doi.org/10.18452/20199)
-8. _(= Homeless People as Library Patrons. In: Public Library 2030)_
-9. Schmidt, C. (2017). Schriftentausch und Digitaler Medienwandel: Eine empirische Untersuchung am Beispiel wissenschaftlicher Spezialbibliotheken. BibSpider. ISBN: 978-3-936960-98-3.
-10. _(= Exchange of Publications and the Digital Turn: An Empirical Study Using the Example of Academic Special Libraries)_
+1. **Nickerson, E., & Schmidt, C.** (2023). Database review: EconBiz. _Journal of Business & Finance Librarianship_, 28(4), 302–311. [https://doi.org/10.1080/08963568.2023.2233837](https://doi.org/10.1080/08963568.2023.2233837)
+    
+2. **Schmidt, C.** (2023). UVic Libraries, AI & Student Success. _CIRCULATION_, Fall 2023, 8–11. [http://hdl.handle.net/1828/15694](http://hdl.handle.net/1828/15694)
+    
+3. **Schmidt, C.** (2023). Wissenschaftliche Self-Publishing-Verlage im Spannungsfeld von bibliothekarischer Theorie und Praxis: Eine Analyse fachlicher Debatten in der Mailingliste InetBib. _Humboldt-Universität Zu Berlin_. [https://doi.org/10.18452/27508](https://doi.org/10.18452/27508)  
+    _(Academic self-publishing at the intersection of librarian theory and practice)_
+    
+4. **Schmidt, C.** (2019). Fake Science … und was Bibliotheken dagegen tun können. _BuB: Forum Bibliothek und Information_, 71(4), 212-215. [https://nbn-resolving.org/urn:nbn:de:0290-opus4-168032](https://nbn-resolving.org/urn:nbn:de:0290-opus4-168032)  
+    _(Fake Science … and how libraries can intervene)_
+    
+5. **Schmidt, C.** (2019). Obdachlose Menschen als Bibliotheksbesucher. In P. Hauke & B. Lison (Eds.), _Öffentliche Bibliothek 2030_ (pp. 161-172). Bock + Herchen. ISBN: 978-3-88347-304-8. [doi.org/10.18452/20199](https://doi.org/10.18452/20199)  
+    _(Homeless People as Library Patrons. In: Public Library 2030)_
+    
+6. **Schmidt, C.** (2017). Schriftentausch und Digitaler Medienwandel: Eine empirische Untersuchung am Beispiel wissenschaftlicher Spezialbibliotheken. _BibSpider_. ISBN: 978-3-936960-98-3.  
+    _(Exchange of Publications and the Digital Turn: An Empirical Study Using the Example of Academic Special Libraries)_
