@@ -1,12 +1,14 @@
 ---
-{"publish":true,"permalink":"/CV.md","created":"2025-09-21T22:28:48.811-07:00","modified":"2025-09-22T17:57:07.462-07:00","cssclasses":""}
+{"publish":true,"permalink":"/CV.md","created":"2025-09-21T22:28:48.811-07:00","modified":"2025-09-22T17:59:02.493-07:00","cssclasses":""}
 ---
 
 # Christian Schmidt, M.A. LIS
 
-**Librarian Research Associate** | Kula: Library Futures Academy  
-University of Victoria Libraries | Victoria, BC  
-📧 [christianschmidt@uvic.ca](mailto:christianschmidt@uvic.ca) | ORCiD: [0000-0001-9116-223X](https://orcid.org/0000-0001-9116-223X)
+**Librarian Research Associate**
+Kula: Library Futures Academy
+University of Victoria Libraries, Victoria, BC, Canada
+E-Mail: [christianschmidt@uvic.ca](mailto:christianschmidt@uvic.ca) 
+ORCiD: [0000-0001-9116-223X](https://orcid.org/0000-0001-9116-223X)
 
 ---
 
