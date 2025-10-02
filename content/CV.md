@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/CV.md","aliases":"Curriculum Vitae","created":"2025-09-21T22:28:48.811-07:00","modified":"2025-09-22T19:44:01.987-07:00","cssclasses":""}
+{"publish":true,"permalink":"/CV.md","aliases":"Curriculum Vitae","created":"2025-10-01T13:19:45.031-07:00","modified":"2025-09-29T14:20:19.000-07:00","tags":["quartz","website"],"cssclasses":""}
 ---
 
 # Christian Schmidt, M.A. LIS
