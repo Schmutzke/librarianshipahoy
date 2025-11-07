@@ -10,7 +10,7 @@ E-Mail: [christianschmidt@uvic.ca](mailto:christianschmidt@uvic.ca) | ORCiD: [00
 
 ---
 
-## Professional Summary
+## Professional Summary 1
 
 10+ years of work experience in academic libraries. Specializing in open scholarship, scholarly communication, and digital library innovation. Expert in open access transformation, open infrastructures, digital preservation, and generative AI application for research and education.
 Sessional instructor at two German university programs for library and information studies (LIS). 
