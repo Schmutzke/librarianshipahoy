@@ -1,6 +1,6 @@
 ---
-{"publish":true,"permalink":"/index.md","created":"2025-10-01T13:19:45.031-07:00","modified":"2025-10-01T21:54:12.757-07:00","cssclasses":""}
+{"publish":true,"permalink":"/index.md","cssclasses":""}
 ---
 
 [[Quartz Test]]
-[[CV]]
+[[# Christian Schmidt, M.A. LIS - Curriculum Vitae]]
